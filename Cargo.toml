@@ -1,8 +1,0 @@
-[workspace]
-members = [
-  "token-lending/cli",
-  "token-lending/program",
-]
-
-[profile.dev]
-split-debuginfo = "unpacked"
